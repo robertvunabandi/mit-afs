@@ -11,7 +11,7 @@ At the same time, I assume that you are somewhat comfortable with command line i
 
 Anyways, *happy learning*!
 
-_**Last Updated:** July 29, 2018, by Robert M. Vunabandi [robertv@mit.edu](mailto:robertv@mit.edu)_
+_**Last Updated:** October 29, 2018_
 
 # AFS
 ## AFS Summary
